@@ -72,7 +72,7 @@ This directory contains your Vuex store files. Creating a file in this directory
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
 ## The requested layout was:
 ![image](https://user-images.githubusercontent.com/106850969/230840646-9b91e44b-1ca4-43a1-85e9-ba74f2509cc2.png)
-## Tech Recruiter said I was free to develop the app any way I wanted, so I respected the layout and styled the rest, I made a component-based application and created an image carousel with the content of the medium.
+## Tech Recruiter said I was free to develop the app any way I wanted, so I respected the layout and styled the rest, I made a component-based application and created an image carousel with the middle content.
 ![image](https://user-images.githubusercontent.com/106850969/230841312-444f032a-4739-45d4-a4d4-b8738cdd6f92.png)
 ![image](https://user-images.githubusercontent.com/106850969/230841029-cbf3f1dd-088f-4849-a2c9-6ad90f7db54b.png)
 ## Check out the special effects! (Take a Look at the carousel)
